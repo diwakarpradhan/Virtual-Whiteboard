@@ -2,11 +2,12 @@
 # Whiteboard
 The Whiteboard is a virtual, interactive drawing platform that allows users to create and share whiteboard content. This app is built using React.js and leverages the HTML5 Canvas API for its drawing functionality.
 ## Technologies
-- **React.js**
-- **HTML5** 
-- **JavaScript**
+- **HTML5**
 - **CSS**
+- **JavaScript**
+- **React.js**
 - **Tailwind**
+- **Node.js**
 
 ## Demo
 
@@ -23,7 +24,7 @@ The Whiteboard is a virtual, interactive drawing platform that allows users to c
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/whiteboard.git
+    git clone https://github.com/diwakarpradhan/whiteboard.git
     ```
 
 2. Navigate to the project directory:
