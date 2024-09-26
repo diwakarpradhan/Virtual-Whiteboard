@@ -1,5 +1,5 @@
 
-# Whiteboard
+# Virtual Whiteboard 
 The Whiteboard is a virtual, interactive drawing platform that allows users to create and share whiteboard content. This app is built using React.js and leverages the HTML5 Canvas API for its drawing functionality.
 ## Technologies
 - **HTML5**
